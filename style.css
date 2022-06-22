@@ -1,0 +1,32 @@
+body{
+    background-color: hotpink;
+
+}
+.camera{
+    background-color: coral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+h2{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+label{
+    background-color: honeydew;
+    color: lightseagreen;
+    border-radius: 25px;
+    width:100px;
+    height:25px;
+    text-align: center;
+}
+.container{
+    
+    font-size:35px;
+    text-align: center;
+}
+#heading{
+    font-size:35px;
+    text-align:center;
+}
